@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: net.yslibrary.licenseadapter:licenseadapter:1.2.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fbb7d88ba20cec7ec8f2f662e33d636/jetified-licenseadapter-1.2.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/0fbb7d88ba20cec7ec8f2f662e33d636/jetified-licenseadapter-1.2.4/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.yslibrary.licenseadapter/licenseadapter/1.2.4/fe53f0f2353f3baf8baf054d69ea07744ab46a9b/licenseadapter-1.2.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.yslibrary.licenseadapter/licenseadapter/1.2.4/d3aa72ee1e066c7ef47c0a7aad8b3db3edb60a47/licenseadapter-1.2.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
