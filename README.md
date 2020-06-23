@@ -1,8 +1,8 @@
-# LicenseManager
+# License Manager
 
 [![platform](https://img.shields.io/badge/platform-Android-yellow.svg)](https://www.android.com)
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg?style=flat-square)](https://www.apache.org/licenses/LICENSE-2.0.html)
-[![Gradle Version](https://img.shields.io/badge/gradle-3.5-green.svg)
+[![Gradle Version](https://img.shields.io/badge/gradle-3.5-green.svg)]
 
 License Manager is an open source library to display licenses of third-party libraries in an Android app.
 
